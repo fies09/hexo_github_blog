@@ -36,5 +36,21 @@ git push -u origin master / git push -f origin master
 
 
 
+1,常用(上传代码)
+git stash
+git pull
+git stash pop
+git add .
+git commit -m ""
+git push
+扩展:
+git checkout 分支名:切换分支
+git pull origin master: 拉取主分支代码
+git merge dev: 合并dev分支代码到主分支
+
+![git使用](https://img-blog.csdnimg.cn/eb1e2203dd17421ebbf075e02cda5e0c.png)
+
+
+
 
 
