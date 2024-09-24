@@ -220,6 +220,10 @@ df['Gender_Num'] = df['Gender'].map(gender_map)
 
 ​		•	**使用** categorical **类型**：对于重复值多的字符串列，转换为分类类型可节省内存。
 
+​	 14，列表去重
+
+​			unique_lis1 = pd.unique(lis1).tolist() 
+
 
 
 9，nosql, hadoop, spark
@@ -275,3 +279,7 @@ spark: 主要用于高效的实时处理，迭代计算或交互式查询。
 2）YARN集群：负责海量数据运算时的资源调度,集群中的ResourceMamager/NodeManager
 
 3）MapReduce: 它其实是一个应用程序开发包
+
+
+
+14，
