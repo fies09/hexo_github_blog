@@ -1,5 +1,5 @@
 ---
-title: nginx部署
+title: web开发1-nginx部署
 comments: true
 copyright: true
 tags:
