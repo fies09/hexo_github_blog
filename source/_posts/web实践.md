@@ -2,11 +2,12 @@
 title: 接口幂等性
 comments: true
 copyright: true
+tags:
+  - 接口幂等性
+categories:
+  - 接口幂等性
+abbrlink: a26b78e0
 date: 2025-01-09 19:32:26
-tags: 
-  - 接口幂等性
-categories: 
-  - 接口幂等性
 ---
 
 1，高并发下如何保证接口的幂等性

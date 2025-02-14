@@ -2,11 +2,12 @@
 title: Controller接口设计
 comments: true
 copyright: true
+tags:
+  - Controller接口
+categories:
+  - Controller接口
+abbrlink: 5e622f88
 date: 2025-01-09 20:05:00
-tags: 
-  - Controller接口
-categories: 
-  - Controller接口
 ---
 
 ## 1. 签名
